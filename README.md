@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abubaker Tayeb
 - 👨‍🎓 Undergraduate student at <a href="https://kfupm.edu.sa/" target="_blank">KFUPM</a>
 - 🖥️ Majoring in Computer Engineering
-- - 📚 Currently learning about embedded systems and IoT devices
+- 📚 Currently learning about embedded systems and IoT devices
 - 📫 Reach me at <a href="abubakermst@gmail.com" target="_blank">abubakermst@gmail.com</a>
 
 <!---
